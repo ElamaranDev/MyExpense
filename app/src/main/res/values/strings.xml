@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MyExpenses</string>
+    <string name="app_name">My Expenses</string>
+    <string name="welcome_message">Hello, Happy Coding</string>
+    <string name="year_title">Years</string>
+    <string name="month_title">Months</string>
+    <string name="expenses_title">Expenses</string>
+    <string name="add_button_text">Add Years</string>
 </resources>
