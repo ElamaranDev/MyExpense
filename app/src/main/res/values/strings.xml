@@ -5,4 +5,7 @@
     <string name="month_title">Months</string>
     <string name="expenses_title">Expenses</string>
     <string name="add_button_text">Add Years</string>
+    <string name="text_regular_size_16dp">16dp</string>
+    <string name="add_button_name">Add</string>
+    <string name="enter_year_hint">Enter year</string>
 </resources>
